@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ARSolution.OpenHAB.Rest", "ARSolution.OpenHAB.Rest\ARSolution.OpenHAB.Rest.csproj", "{B4C43B3A-FB1B-4A7A-B8FC-457C8029B011}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARSolution.OpenHAB.Rest.Tests", "ARSolution.OpenHAB.Rest.Tests\ARSolution.OpenHAB.Rest.Tests.csproj", "{EA152B65-BC0D-4EA8-BD70-102AECB9E5DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARSolution.OpenHAB.Model", "ARSolution.OpenHAB.Model\ARSolution.OpenHAB.Model.csproj", "{AB9CFD53-9C81-4680-B91A-3ECA3C1ABADF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4C43B3A-FB1B-4A7A-B8FC-457C8029B011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4C43B3A-FB1B-4A7A-B8FC-457C8029B011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4C43B3A-FB1B-4A7A-B8FC-457C8029B011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4C43B3A-FB1B-4A7A-B8FC-457C8029B011}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA152B65-BC0D-4EA8-BD70-102AECB9E5DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA152B65-BC0D-4EA8-BD70-102AECB9E5DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA152B65-BC0D-4EA8-BD70-102AECB9E5DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA152B65-BC0D-4EA8-BD70-102AECB9E5DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB9CFD53-9C81-4680-B91A-3ECA3C1ABADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB9CFD53-9C81-4680-B91A-3ECA3C1ABADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB9CFD53-9C81-4680-B91A-3ECA3C1ABADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB9CFD53-9C81-4680-B91A-3ECA3C1ABADF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C896CF5-5074-4CD4-9CFD-EE1DAE788D59}
+	EndGlobalSection
+EndGlobal
